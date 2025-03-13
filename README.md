@@ -11,11 +11,11 @@ Before running the project, install the necessary dependencies:
 pip install opencv-python numpy
 ```
 Additionally, download the YOLOv3 model files:
+
 yolov3.weights
-
 yolov3.cfg
-
 coco.names
+
 Place these files in the project directory.
 
 **Usage**
