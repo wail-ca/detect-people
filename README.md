@@ -28,7 +28,7 @@ Place these files in the project directory.
 git clone https://github.com/wail-ca/detect-people.git
 ```
 ```
-cd person-detection-yolo
+cd detect-people
 ```
 # 2. Run the script
 ```
